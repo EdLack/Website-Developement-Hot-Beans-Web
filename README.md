@@ -19,7 +19,7 @@ CSS: Styling and layout design.
 **Installation & Running the Website**
 
 Download or clone the project repository.
-Open index.html in a web browser.
+Open Company-profile.html in a web browser.
 Navigate through the different pages using the site menu.
 
 **Future Improvements**
